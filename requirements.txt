@@ -1,0 +1,4 @@
+argparse==1.2.1
+requests==2.5.1
+mohawk==0.2.2
+querystring_parser==1.2.0
